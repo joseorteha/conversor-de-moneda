@@ -1,0 +1,27 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Compilar proyecto Java con Maven",
+			"type": "shell",
+			"command": "mvn clean compile",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [
+				"$javac"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Compilar proyecto Java con Maven",
+			"type": "shell",
+			"command": "mvn clean compile",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [
+				"$javac"
+			],
+			"group": "build"
+		}
+	]
+}

@@ -1,0 +1,3 @@
+- [ ] Proyecto Java de consola ConversorDeMonedas creado con estructura estándar y dependencias necesarias.
+- [ ] Clases Main, Conversor y ApiService generadas en src/main/java/conversor.
+- [ ] Falta agregar la dependencia Gson y el archivo README.md.
